@@ -2,7 +2,7 @@
 <h2>Brief Description</h2> <br>
 <p> <font size="3"> A pharmacy based web application where you can give the doctor's prescription as an input and it will automatically add all the medication types to the cart of the application. The web application will use django, html, css and javascript as it's tech stack and will have a database of all the medicines available, including the stock amount. Database will also contain the doctor's details along with the patient's details. And all the data will be stored securely. For the handwiting recognition we are using a <i><u>yet to decide</u></i> algorithm. We will use CNN classifications to find the words and numbers for each parameter and add it methodologically to our cart. The web application will also give the option to check the detials before reaching the payment checkout. </font></p>
 <br>
-### Technology Used:
+<h2> Technology Used: </h2>
 
 - #### Languages:
   - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
